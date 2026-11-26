@@ -1,16 +1,26 @@
 let Projectdata = [
-    {
+   {
       id: 1,
+      title: "Senior Backend Engineer",
+      location: "Netherlands, Dubai, Romania",
+      description:
+        "Own the backend of Codex, a multitenant enterprise microservices platform, building scalable C#/.NET services and REST APIs with DDD, CQRS and event-driven messaging (RabbitMQ, EventStore) over MongoDB and SQL, deploying with Docker and Kubernetes on Azure through automated CI/CD and Playwr",
+      buttonText: "Codeless Technology B.V",
+      date: "May 2025 - Present",
+      icon: "work"
+    },
+    {
+      id: 2,
       title: "Integration Developer",
       location: "UK, London",
       description:
         "Involves integrating legacy systems from classic ASP into a modern .NET architecture, developing scalable applications to enhance and support these older systems. Additionally, I restructure and optimize database schemas to improve data allocation and normalization, introducing new layouts and structures for more efficient data transfer.",
       buttonText: "Event Connections",
-      date: "Aug 2023 - Present",
+      date: "Aug 2023 - May 2025",
       icon: "work"
     },
     {
-      id: 2,
+      id: 3,
       title: ".NET Developer",
       location: "USA",
       description:
@@ -20,7 +30,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 3,
+      id: 4,
       title: "Lead Full Stack .NET Developer",
       location: "UK, London",
       description:
@@ -30,7 +40,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 4,
+      id: 5,
       title: "Senior Software Engineer",
       location: "Taguig, PH",
       description:
@@ -40,7 +50,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 5,
+      id: 6,
       title: ".NET Developer Consultant",
       location: "Makati, PH",
       description:
@@ -50,7 +60,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 6,
+      id: 7,
       title: "Programmer Analyst",
       location: "Makati, PH",
       description:
@@ -60,7 +70,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 7,
+      id: 8,
       title: "Programmer",
       location: "Caloocan, PH",
       description:
@@ -70,7 +80,7 @@ let Projectdata = [
       icon: "work"
     },
     {
-      id: 8,
+      id: 9,
       title: "University of the East Manila",
       location: "Manila, PH",
       description:
