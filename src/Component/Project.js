@@ -31,7 +31,7 @@ function Project() {
                             <h5 className="vertical-timeline-element-subtitle">{element.location}</h5>
                             <p id="description">{element.description}</p>
                             {showButton && (<a className={`viewdemo ${
-                                isWorkIcon ? "workButton": "schooButton"}`} href={element.link}>{element.buttonText}</a>)}
+                                isWorkIcon ? "workButton": "schooButton"}`} href={element.link} target="_blank">{element.buttonText}</a>)}
                         </VerticalTimelineElement>
                     );
                 })}
