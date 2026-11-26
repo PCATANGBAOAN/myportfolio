@@ -7,6 +7,7 @@ let Projectdata = [
         "Own the backend of Codex, a multitenant enterprise microservices platform, building scalable C#/.NET services and REST APIs with DDD, CQRS and event-driven messaging (RabbitMQ, EventStore) over MongoDB and SQL, deploying with Docker and Kubernetes on Azure through automated CI/CD and Playwr",
       buttonText: "Codeless Technology B.V",
       date: "May 2025 - Present",
+      link: "https://codeless.com/en/",
       icon: "work"
     },
     {
